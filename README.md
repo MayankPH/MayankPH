@@ -1,4 +1,4 @@
-### I'm Mayank Hinge
+## I'm Mayank Hinge
 
 # 💫 About Me:
 🔭 Currently working on:<br>AI and full-stack projects focused on real-world problem solving using Python, ML, and modern web stacks.<br><br>🌱 Currently learning:<br>Advanced Machine Learning, Generative AI (RAG, agents), and scalable backend system design.<br><br>👯 Looking to collaborate on:<br>AI/ML projects, data-driven applications, and production-ready full-stack solutions.<br><br>🤝 Looking for help with:<br>Model optimization, deployment pipelines, and industry-level system design practices.<br><br>💬 Ask me about:<br>Python, Java, SQL, ML concepts, full-stack development, and SDLC fundamentals.<br><br>⚡ Fun fact:<br>I enjoy building tech solutions that combine AI intelligence with practical, real-world impact.<br>
